@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "TinaCafe": {
+      "applicationId": "gw02IcSVM4VeOpW7wsMOp9bJBt6oKjbXFGVelL3J"
+    },
+    "_default": {
+      "link": "TinaCafe"
+    }
+  }
+}
