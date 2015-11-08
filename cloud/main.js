@@ -1,3 +1,4 @@
+require("cloud/Author/author.js");
 require("cloud/Book/book.js");
 
 // Use Parse.Cloud.define to define as many cloud functions as you want.
